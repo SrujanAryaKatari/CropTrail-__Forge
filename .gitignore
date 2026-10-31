@@ -1,0 +1,10 @@
+node_modules/
+.next/
+__pycache__/
+.pytest_cache/
+backend/.env
+backend/.cache/
+backend/uploads/
+backend/*.db
+frontend/.env*
+!frontend/.env.example
